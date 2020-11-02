@@ -2,7 +2,7 @@ const http = require("http");
 const express = require("express");
 const socketio = require("socket.io");
 
-// push za heroku
+// pokusaj opet
 
 const app = express();
 const server = http.createServer(app);
