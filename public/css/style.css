@@ -185,4 +185,8 @@ a {
   .chat-sidebar {
     display: none;
   }
+
+  .chat-form-container button i {
+    display: none;
+  }
 }
